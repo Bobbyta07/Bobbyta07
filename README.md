@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif)](https://www.linkedin.com/in/anslemnnamdi)
+[![MasterHead]([![MasterHead](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/02/python.gif)](https://www.linkedin.com/in/anslemnnamdi)
 <h1 align="center">Hi 👋, I'm Nnamdi Anslem</h1>
 <h3 align="center">A passionate python developer from Nigeria</h3>
 <img align='right' alt='coding' width='400' src='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952v447d21nfauzkz6gtavb3jj78k0fa1s7j14cl5iw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g'>
