@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbyta07&label=Profile%20views&color=0e75b6&style=flat" alt="bobbyta07" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
 - 💬 Ask me about **Python, Data Science**
 
 - 📫 How to reach me **anslemnnamdi19@gmail.com**
